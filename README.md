@@ -1,4 +1,4 @@
-#A simple form created using react
+<h1>A simple form created using React</h1>
 
 
 # Getting Started with Create React App
